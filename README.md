@@ -3,6 +3,9 @@ Nive-Resume
 
 A **one-page**, **two asymmetric column** resume template in **XeTeX** that caters particularly to an **undergraduate Computer Science** student applying for internships, made with slight modifications from the one originally developed by Debarghya Das.
 
+## PLEASE NOTE
+The experience section is just for reference and is not my work. Need to overwrite that !
+
 ## Known Issues:
 1. Overflows onto second page if any column's contents are more than the vertical limit
 2. Hacky space on the first bullet point on the second column.
